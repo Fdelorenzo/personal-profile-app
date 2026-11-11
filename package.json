@@ -1,0 +1,16 @@
+{
+  "name": "personal-profile-app",
+  "version": "1.0.0",
+  "description": "A personal profile app with an Express server and JSON API",
+  "main": "server.js",
+  "keywords": [
+    "express",
+    "profile",
+    "api"
+  ],
+  "license": "MIT",
+  "author": "Camper Bot",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
